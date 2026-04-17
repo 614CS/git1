@@ -1,4 +1,4 @@
-import { Client } from '/node_modules/@neondatabase/serverless';
+import { Client } from '/git1/node_modules/@neondatabase/serverless';
 
 export default {
   async fetch(request, env, ctx) {
